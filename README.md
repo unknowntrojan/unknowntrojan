@@ -8,9 +8,11 @@ I have recently discovered 🦀 Rust 🦀, and I am completely baffled at how am
 
 Related to my love of low-level code, I'm a dedicated ✨reverse engineer✨. I love trying to understand other's intentions while programming and finding ways to exploit mistakes. I spent most of my teenage years "hacking" games, exploiting both the OS and games themselves, gathering experience reversing and bughunting.
 
-My experience is however not just limited to the backend. Although web development is most definitely not my strong suit, I do still find it enjoyable.
+My experience is not just limited to the backend, however. Web development is most definitely not my strong suit, but I do still find it enjoyable.
 
 I have always hosted my own infrastructure. I am familiar with contemporary virtualization and containerization technologies and have used them for complete CI/CD pipelines for my personal projects.
+
+## Experience
 
 Here is a list of technologies I am very comfortable with:
 
@@ -19,8 +21,9 @@ Here is a list of technologies I am very comfortable with:
 
 <tr>
 
-<th>Languages (in order of skill)</th>
+<th>Languages</th>
 <th>Technologies</th>
+<th>Other Notable Information</th>
 
 </tr>
 
@@ -42,7 +45,8 @@ Here is a list of technologies I am very comfortable with:
 </td>
 <td>
 
-- IDA
+- IDA, Ghidra
+- GDB with pwndbg suite
 - dnSpy & ILSpy
 - Docker & Kubernetes
 - Git
@@ -50,14 +54,23 @@ Here is a list of technologies I am very comfortable with:
 - Woodpecker/Drone CI/CD
 
 </td>
+<td>
+
+- Experience with Video&Audio Editing, ran a now-defunct YouTube channel for 3 years.
+- Autodidactive Learning
+- 110 WPM with a low error rate
+- Knowledge of Windows Internals
+- Maintained websites and gameservers for >8 years with no notable incidents.
+
+</td>
 </tr>
 
 </tbody>
 </table>
 
-## Job Offers
+## Recruiters
 
-If you wish to offer me a position, feel free to contact me.
+If you wish to offer me a position, feel free to contact me on Discord (unknowntrojan#2814), as I don't want my number and EMail scraped and spammed.
 
 ## Donations
 
