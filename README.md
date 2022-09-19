@@ -1,16 +1,16 @@
 # _your friendly neighbourhood hacker_
 
-My name is **unknowntrojan**. I'm german, and I go by he/him. I speak both german and english fluently.
+My name is **unknowntrojan**, although I frequently go by just **unknown**. I go by he/him. I am a native german speaker, although I speak both german and english fluently. You can reach me on Discord under _unknowntrojan#2814_.
 
-I've been obsessed with computers and programming my entire life. My first real language was C, and it was my daily driver for a very long time. I love working close to hardware and have had my fair share of fun in homebrew scenes, especially with Nintendo consoles. My work also familiarized myself with x86 Assembly. Nowadays I spend a lot of time doing CrackMe's, exploring anticheats and analyzing malware.
+I've been obsessed with computers and programming my entire life. My first real language was C, and it was my daily driver for a very long time. I love working close to hardware and have had my fair share of fun in homebrew and embedded scenes, especially with Nintendo consoles. My work also familiarized me with x86 Assembly. Nowadays I spend a lot of time doing CrackMe's, exploring anticheats and analyzing malware.
 
-I have now tried Rust, and am completely baffled at how amazing of a language it is. There are barely any circumstances under which I still prefer one of my more "classic" languages.
+I have recently discovered 🦀 Rust 🦀, and I am completely baffled at how amazing of a language it is. I use it where possible.
+
+Related to my love of low-level code, I'm a dedicated ✨reverse engineer✨. I love trying to understand other's intentions while programming and finding ways to exploit mistakes. I spent most of my teenage years "hacking" games, exploiting both the OS and games themselves, gathering experience reversing and bughunting.
 
 My experience is however not just limited to the backend. Although web development is most definitely not my strong suit, I do still find it enjoyable.
 
 I have always hosted my own infrastructure. I am familiar with contemporary virtualization and containerization technologies and have used them for complete CI/CD pipelines for my personal projects.
-
-Related to my love of low-level code, I'm a dedicated ✨reverse engineer✨. I love trying to understand other's intentions while programming and finding ways to exploit mistakes. I spent most of my teenage years "hacking" games, exploiting both the OS and games themselves, gathering experience reversing and bughunting.
 
 Here is a list of technologies I am very comfortable with:
 
@@ -55,16 +55,15 @@ Here is a list of technologies I am very comfortable with:
 </tbody>
 </table>
 
-## Discord
+## Job Offers
 
-My Discord tag is unknowntrojan#2814.
+If you wish to offer me a position, feel free to contact me.
 
 ## Donations
 
-If you would like to donate to me, you can use send Monero to
+If you would like to donate, you can do it via XMR:
+**87KdGf5Q5kRHV28hhXZwvgFoBj4oXmPKFYb5QMmGZwJVE6r6iRfMhGmCqmrcjxLYATLGoDX8mPZxz5qHxABqdzACAw5RWZY**
 
-- XMR: **87KdGf5Q5kRHV28hhXZwvgFoBj4oXmPKFYb5QMmGZwJVE6r6iRfMhGmCqmrcjxLYATLGoDX8mPZxz5qHxABqdzACAw5RWZY**
+or, you could use this handy button.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="unknowntrojan" data-color="#5F7FFF" data-emoji=""  data-font="Lato" data-text="Buy me some kebab" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-
--
+<a href="https://www.buymeacoffee.com/unknowntrojan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
