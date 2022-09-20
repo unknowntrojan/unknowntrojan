@@ -84,6 +84,8 @@ Most of my youth was spent _"hacking"_ games, exploiting the games' code for fun
 
 My programming experience is not just limited to backend or systems programming, however. While front-end web development is most definitely not my strong suit, I do still find it partially enjoyable and have made websites utilizing libraries like [htmx](https://htmx.org/) and other lightweight frontend technologies, along with styling projects such as [pico.css](https://picocss.com/) and [Tailwind CSS](https://tailwindcss.com/). I personally dislike the popular SPA framework approach the likes of [React](https://reactjs.org/) and [Angular](https://angular.io/).
 
+[LLVM](https://llvm.org/) is a project I am really excited about. I haven't done much with it _yet_, but it has huge potential for creating new languages and writing custom passes for optimization or obfuscation. Did I mention it can be used to basically __completely thwart__ the efforts of code virtualizers? 😉
+
 My services have always been hosted on my own infrastructure. My favorite Linux Distribution by far is [Fedora Linux](https://getfedora.org/), both for Desktop and Server workloads. I am familiar with the Linux CLI and contemporary containerization technologies and have used them extensively throughout my personal projects, for example to host my VCS ([Gitea](https://gitea.io/en-us/)), CI/CD ([Woodpecker](https://woodpecker-ci.org/)) and the occasional game server.
 
 ## Contact
