@@ -4,7 +4,7 @@ My name is __unknowntrojan__ (or simply __unknown__), and I go by __he/him__.
 
 I was born and currently live in Germany 🇩🇪 and speak both English and German fluently.
 
-I hold a burning passion for __"hacking"__ (especially __reverse-engineering__, __malware analysis__ & __binary exploitation__) and have been ___hacking away___ (get it?) at anything I could get my hands on since I first touched my dad's computer.
+I hold a burning passion for __"hacking"__ (especially __reverse-engineering__, __malware analysis__ & __binary exploitation__) and have been ___hacking away___ (get it?) at anything I could get my hands on ever since I first touched my dad's computer.
 
 Furthermore, my recent discovery of the [Rust (🦀)](https://www.rust-lang.org/) programming language has had me _completely starstruck_ and lead to a spree of me re-writing some of my projects in it. Rust has firmly placed itself as my favourite language.
 
