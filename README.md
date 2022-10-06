@@ -49,7 +49,7 @@ Here is a list of technologies I am comfortable and familiar with:
 - Docker & Kubernetes
 - CI/CD (GH Actions, Woodpecker/Drone)
 - RDBMS (MariaDB & Postgres)
-- Linux (mostly Fedora)
+- Linux in both Desktop and server environments (mostly Fedora)
 - Windows in a desktop environment
 
 </td>
