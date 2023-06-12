@@ -5,12 +5,7 @@ I love reverse engineering, the Rust programming language, owls, cats and evergr
 </p>
 
 <br/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=unknowntrojan&show_icons=true&theme=dark" />
 
-<div style="display: flex; justify-content: space-between">
-<a href="https://github.com/unknowntrojan" float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknowntrojan&show_icons=true&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknowntrojan&show_icons=true&theme=dark&langs_count=4&layout=compact" />
 </a>
-<a href="https://github.com/unknowntrojan" float="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknowntrojan&show_icons=true&theme=dark&langs_count=4&layout=compact" />
-</a>
-</div>
