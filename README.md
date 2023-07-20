@@ -2,8 +2,6 @@
 
 I love reverse engineering, the Rust programming language, owls, cats and evergreens.
 
-<br/>
-
 I have a blog at [unknowntrojan.win](https://unknowntrojan.win), feel free to take a look! I haven't spent much time on it yet, so there may not be much to see.
 
 You can find me here:
