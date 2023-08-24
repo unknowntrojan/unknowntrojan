@@ -4,6 +4,8 @@ I love reverse engineering, the Rust programming language, owls, cats and evergr
 
 I have a blog at [unknowntrojan.win](https://unknowntrojan.win), feel free to take a look! I haven't spent much time on it yet, so there may not be much to see.
 
+If you're looking for slides or information about my talks, see [here](https://github.com/unknowntrojan/talks).
+
 You can find me here:
 | Platform | Username |
 | --- | --- |
