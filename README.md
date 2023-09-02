@@ -6,12 +6,8 @@ I love reverse engineering, gamehacking, the Rust programming language, owls, ca
 
 I have a blog at [unknowntrojan.win](https://unknowntrojan.win), I intend to make use of it more in the future. Right now, you can find a post about me holding my first talk there.
 
-<div style="float:right; width:50%; display:block;">
-<div style="">
-<img align="right" style="text-align:right;" src="https://github-readme-stats.vercel.app/api?username=unknowntrojan&show_icons=true&theme=github_dark" />
-<div style="clear: both;"><p></p></div>
-<img align="right" style="text-align:right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknowntrojan&show_icons=true&theme=github_dark&langs_count=4&layout=compact&hide=ruby,liquid,javascript,css" />
-</div>
+<div style="float:right; width: 50%;">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=unknowntrojan&show_icons=true&theme=github_dark" />
 </div>
 
 If you're looking for slides or information about my talks, see [here](https://github.com/unknowntrojan/talks).
@@ -21,3 +17,6 @@ You can find me here:
 | --- | --- |
 | Discord | unknowntrojan |
 | Matrix | @unknowntrojan:unknowntrojan.win |
+
+<div style="clear: both;"></div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknowntrojan&show_icons=true&theme=github_dark&langs_count=4&layout=compact&hide=ruby,liquid,javascript,css" />
