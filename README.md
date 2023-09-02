@@ -6,11 +6,11 @@ I love reverse engineering, gamehacking, the Rust programming language, owls, ca
 
 I have a blog at [unknowntrojan.win](https://unknowntrojan.win), I intend to make use of it more in the future. Right now, you can find a post about me holding my first talk there.
 
-<div style="float:right;">
-<div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=unknowntrojan&show_icons=true&theme=github_dark" />
-<br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknowntrojan&show_icons=true&theme=github_dark&langs_count=4&layout=compact&hide=ruby,liquid,javascript,css" />
+<div style="float:right; width:50%; display:block;">
+<div style="">
+<img align="right" style="text-align:right;" src="https://github-readme-stats.vercel.app/api?username=unknowntrojan&show_icons=true&theme=github_dark" />
+<div style="clear: both;"><p></p></div>
+<img align="right" style="text-align:right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknowntrojan&show_icons=true&theme=github_dark&langs_count=4&layout=compact&hide=ruby,liquid,javascript,css" />
 </div>
 </div>
 
