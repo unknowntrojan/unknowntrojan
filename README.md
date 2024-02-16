@@ -1,8 +1,8 @@
 # <p align="center">__Hi, I'm unknowntrojan__</p>
 
-I go by he/him, am 19 years old and currently live in Germany.
+I go by he/him, am 20 years old and currently live in Germany.
 
-I love reverse engineering, gamehacking, the Rust programming language, owls, cats and evergreens.
+I love reverse engineering, gamehacking, organic chemistry, pharmacology, the Rust programming language, owls, cats and evergreens.
 
 I have a blog at [unknowntrojan.win](https://unknowntrojan.win), I intend to make use of it more in the future. Right now, you can find a post about me holding my first talk there.
 
