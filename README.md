@@ -1,6 +1,6 @@
 # <p align="center">__Hi, I'm unknowntrojan__</p>
 
-I go by he/him, am 20 years old and currently live in Germany.
+I go by he/they, am 21 years old and currently live in Germany.
 
 I love reverse engineering, gamehacking, organic chemistry, pharmacology, the Rust programming language, owls, cats and evergreens.
 
