@@ -1,6 +1,6 @@
 # <p align="center">__Hi, I'm unknowntrojan__</p>
 
-I go by he/they, am 21 years old and currently live in Germany.
+I'm a pro at nouns, am 21 years old and currently live in Germany.
 
 I love reverse engineering, gamehacking, organic chemistry, pharmacology, the Rust programming language, owls, cats and evergreens.
 
@@ -16,6 +16,7 @@ You can find me here:
 | Platform | Username |
 | --- | --- |
 | Discord | unknowntrojan |
+| Mastodon | @unknowntrojan@treehouse.systems |
 
 <br/>
 <div style="clear: both;"></div>
