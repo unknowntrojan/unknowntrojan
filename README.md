@@ -1,6 +1,6 @@
 # <p align="center">__Hi, I'm unknowntrojan__</p>
 
-I'm a pro at nouns, am 21 years old and currently live in Germany.
+I'm a pro at nouns, am 22 years old and currently live in Germany. Pick whatever pronouns you feel like using.
 
 I love reverse engineering, gamehacking, organic chemistry, pharmacology, the Rust programming language, owls, cats and evergreens.
 
